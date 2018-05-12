@@ -1,0 +1,34 @@
+_repo: Mrs.-Warren-s-DaughterA-Story-of-the-Woman-s-Movement_15380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Harry
+    aliases:
+    - Johnston, H. H. (Harry Hamilton), Sir
+    - Johnston, Sir Harry Hamilton
+    - Johnston, Henry Hamilton, Sir
+    - Johnston, H.H.
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '4771'
+    url: http://www.gutenberg.org/2009/agents/4771
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Johnston
+description: ''
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Feminism -- Fiction'
+- !lcsh 'Women''s rights -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+title: 'Mrs. Warren''s Daughter: A Story of the Woman''s Movement'
+url: http://www.gutenberg.org/ebooks/15380
